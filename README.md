@@ -62,7 +62,7 @@ SuperGrok核心功能介绍-搭载Grok4技术
 
 星际放映厅主打“现号秒发、安全稳定、物美价廉”，也就是说，买完账号基本上可以立刻用上，价格也很实在。该平台用的是自动化系统，操作简单，账号交付快，而且还有24小时在线客服，遇到任何问题都能及时帮你解决，售后不用担心。
 
-<p align="center">[立即访问星际放映厅官网](https://www.naifeistation.com/i/Satqr)</p>
+# <p align="center">[立即访问星际放映厅官网](https://www.naifeistation.com/i/Satqr)</p>
 
 ## Grok4会员升级平台：[银河录像局](https://nf.video/24MAX)
 
@@ -88,7 +88,7 @@ SuperGrok核心功能介绍-搭载Grok4技术
 
 另外，银河录像局最大的优势是无需科学上网，国内用户可以直接使用，也不用去注册那些复杂的AI工具账号，更不用担心封号的问题。
 
-<p align="center">[立即访问星际放映厅官网](https://nf.video/24MAX)</p>
+# <p align="center">[立即访问星际放映厅官网](https://nf.video/24MAX)</p>
 
 ## 三、SuperGrok高阶能力详解
 
